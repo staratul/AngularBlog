@@ -1,0 +1,18 @@
+.blog-header-logo {
+  font-family: cursive;
+  font-size: xxx-large;
+  font-style: oblique;
+  font-variant: petite-caps;
+}
+li {
+  padding: 25px 30px;
+}
+
+li a {
+  text-decoration: solid;
+  font-weight: bold;
+}
+
+.p {
+  color: white !important;
+}
